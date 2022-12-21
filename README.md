@@ -1,4 +1,3 @@
-## Weixin Liu CS5004 Final Project 
 ## The Easy Animator Application
 
 This project provides an easy animator which converts the input text into an animation and allow users to view this animation in several ways. For example, users can choose to display the animation directly on his/her screen, interactively play it, changing the speed. Or they can export the animation as pure descriptions on a time line, or even export the animation as a SVG file.
